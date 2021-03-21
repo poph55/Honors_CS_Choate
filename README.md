@@ -1,6 +1,6 @@
 # compsci
 CS550 Winer - Hudson
 
+Shout out to Henry Lockwood. 
 
-[This should take you where you want to go!](https://github.com/poph55/compsci/blob/master/MA1-GithubQuiz/README.md)
-
+A collection of my coding projects from Honors Computer Science at Choate Rosemary Hall.
